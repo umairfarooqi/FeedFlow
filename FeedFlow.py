@@ -44,5 +44,7 @@ while index < total_feeds:
 
     except Exception as e:
         print(f"❌ Error fetching feed: {e}")
+        print(f"❌ Error fetching feed: {e}")
+        print(f"❌ Error fetching feed: {e}")
 
     index += 1  # Next RSS feed pe move karne ke liye
